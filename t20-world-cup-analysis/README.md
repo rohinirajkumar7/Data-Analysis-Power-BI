@@ -15,22 +15,16 @@ To convert raw cricket match and player data into structured datasets and meanin
 ---
 
 ## 📂 Project Structure
+```
 t20-world-cup-analysis/
-
 ├── data/
-
 │ ├── raw/ # Original JSON data
-
 │ └── processed/ # Cleaned & structured CSV tables
-
 ├── notebooks/ # Python data preprocessing
-
 ├── powerbi/ # Power BI dashboard
-
 └── screenshots
-
 └── README.md
-
+```
 
 
 ---
